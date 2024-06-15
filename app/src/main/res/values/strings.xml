@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_desc_ball1img">ball1img</string>
+    <string name="content_desc_ball2img">ball2img</string>
+    <string name="content_desc_ball3img">ball3img</string>
+    <string name="content_desc_ball4img">ball4img</string>
+    <string name="content_desc_ball5img">ball5img</string>
+    <string name="content_desc_ball6img">ball6img</string>
+    <string name="content_desc_ball7img">ball7img</string>
+    <string name="content_desc_ball8img">ball8img</string>
+    <string name="content_desc_ball9img">ball9img</string>
+</resources>
